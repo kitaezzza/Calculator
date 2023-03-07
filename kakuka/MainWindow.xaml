@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:kakuka"
         mc:Ignorable="d"
-        Title="Какука" Height="450" Width="800">
+        Title="Калькулятор" Height="450" Width="800">
     <Grid>
         <TextBox x:Name ="tb_first_num" HorizontalAlignment="Left" Margin="86,122,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="256" Height="31"/>
         <TextBox x:Name="tb_second_num" HorizontalAlignment="Left" Margin="86,249,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="256" Height="32"/>
